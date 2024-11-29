@@ -1,0 +1,10 @@
+bool this_is_fun = true; // boolean true or false
+const char* c= "A"; // single character
+int meaning_of_life = 42; // integer number
+short smallest_number = 42; // short number
+long bigger_int = 42; // long number
+float fraction = 0.01f; // single precision float
+double precise_num = 0.01; // double precision float
+auto some_int = 13; // automatic type int
+auto some_float = 13.0f; // automatic type float
+auto some_double = 3.14; // automatic type double
